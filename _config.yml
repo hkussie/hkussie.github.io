@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Harrison Kussie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Software Developer and aspiring Data Scientist."
   location         : "Seattle, WA."
   email            : "hkussie@gmail.com"
   uri              :
