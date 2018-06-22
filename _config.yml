@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Harrison Kussie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software and Data Scince(y) Portfolio/Blog"
+  avatar           : "images/Image(3).png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Software and Data Science Portfolio/Blog"
   location         : "Seattle, WA"
   email            : "hkussie@gmail.com"
   uri              :
