@@ -5,4 +5,4 @@ header:
   image: "/images/rainy_seattle.jpeg"
 ---
 
-I'm a developer.
+I'm a developer. Of sorts. 
