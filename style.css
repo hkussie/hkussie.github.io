@@ -1,0 +1,55 @@
+#mainPara {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Anton', sans-serif;
+}
+
+#aboutPara {
+  text-align: center;
+  font-size: 18px;
+  /*color: #d3d3d3; */
+  color: black;
+  font-family: 'Wendy One', sans-serif;
+}
+
+#image {
+  padding-top: 100px;
+}
+
+#contact {
+  text-align: center;
+  color: black;
+  font-family: 'Wendy One', sans-serif;
+  font-size: 18px;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+#aboutMenu {
+  padding-top: 15px;
+  padding-right: 15px;
+  font-size: 18px;
+  font-family: 'Wendy One', sans-serif;
+}
+
+#firstSection {
+  font-family: 'Anton', sans-serif;
+  font-size: 18px;
+  color: black;
+  /*padding-left: 105px; */
+  padding-top: 45px
+}
+
+#secondSection {
+  padding-top: 40px;
+  /*padding-left: 105px; */
+  font-family: 'Playfair Display SC', serif;
+}
