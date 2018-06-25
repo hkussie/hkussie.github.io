@@ -2,7 +2,7 @@
 ## Header 2
 ### Header 3
 
-```js
+```javascript
   function testThis() {
     return Hello There;
   }
