@@ -1,15 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 #mainPara {
   text-align: center;
   font-size: 36px;
-  font-family: 'Anton', sans-serif;
+  /* font-family: 'Anton', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
 }
 
 #aboutPara {
   text-align: center;
   font-size: 18px;
-  /*color: #d3d3d3; */
   color: black;
-  font-family: 'Wendy One', sans-serif;
+  /* font-family: 'Wendy One', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
 }
 
 #image {
@@ -19,7 +22,8 @@
 #contact {
   text-align: center;
   color: black;
-  font-family: 'Wendy One', sans-serif;
+  /* font-family: 'Wendy One', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
 }
 
@@ -37,19 +41,35 @@ hr {
   padding-top: 15px;
   padding-right: 15px;
   font-size: 18px;
-  font-family: 'Wendy One', sans-serif;
+  /* font-family: 'Wendy One', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
 }
 
 #firstSection {
-  font-family: 'Anton', sans-serif;
+  /* font-family: 'Anton', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   color: black;
-  /*padding-left: 105px; */
   padding-top: 45px
 }
 
 #secondSection {
   padding-top: 40px;
-  /*padding-left: 105px; */
-  font-family: 'Playfair Display SC', serif;
+  /* font-family: 'Playfair Display SC', serif; */
+  font-family: 'Montserrat', sans-serif;
+}
+
+#thirdSection {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+#contentFont {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#blogHeader {
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
 }
